@@ -1,0 +1,55 @@
+C:\Users\Dönüş\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\SCN\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\SCN\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\SCN\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\SCN\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\SCN\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+D:\masaüstü\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+E:\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+E:\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+E:\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
+E:\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+E:\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+E:\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+E:\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+E:\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+E:\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.cache
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.CopyComplete
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+C:\Users\emre\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb

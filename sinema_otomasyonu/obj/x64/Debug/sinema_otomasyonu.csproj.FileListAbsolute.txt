@@ -1,0 +1,21 @@
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.exe.config
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.exe
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.pdb
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.Form1.resources
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.exe
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.pdb
+C:\Users\Dönüş Soydemir\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+F:\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.exe.config
+F:\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.exe
+F:\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.pdb
+F:\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.exe
+F:\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.pdb
+F:\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.csprojResolveAssemblyReference.cache
+F:\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.Form1.resources
+F:\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.Properties.Resources.resources
+F:\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Dönüş Soydemir\Desktop\DÖNÜŞ SOYDEMİR 145210053\sinema_otomasyonu\sinema_otomasyonu\bin\x64\Debug\sinema_otomasyonu.exe.config
+C:\Users\Dönüş Soydemir\Desktop\DÖNÜŞ SOYDEMİR 145210053\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.exe
+C:\Users\Dönüş Soydemir\Desktop\DÖNÜŞ SOYDEMİR 145210053\sinema_otomasyonu\sinema_otomasyonu\obj\x64\Debug\sinema_otomasyonu.pdb
